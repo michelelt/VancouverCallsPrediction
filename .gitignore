@@ -1,0 +1,5 @@
+#ignore Data
+/Data/*
+
+#ignore Plots
+/Plots/*
